@@ -1,5 +1,5 @@
 
-👋  Olá Galera, eu sou Bianca. 
+#👋  Olá Galera, eu sou Bianca. 
 👩‍💻 Analista e Desenvolvedora em Transição de Carreira
 📍 Suzano, São Paulo | 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Fatec...
 💞️Sou uma profissional da área da saúde que está embarcando em uma empolgante jornada de transição de carreira para a área de análise e desenvolvimento de sistemas.
