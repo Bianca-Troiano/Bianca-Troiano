@@ -7,9 +7,10 @@ Atualmente com 27 anos, resido em Suzano, São Paulo, e estou dedicando meu temp
 
 
 🖥️ Tecnologias e Ferramentas que estou aprendendo:
+
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"  width="40" height="40" />       
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+
 
 
 
