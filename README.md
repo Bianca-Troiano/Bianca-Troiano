@@ -9,7 +9,11 @@
 
 🖥️ Tecnologias e Ferramentas que estou aprendendo:
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
+          
+                                                                                                                                                
+                                                                                                                                                
+                                                                                                                                                " width="40" height="40"/> 
           
 
           
